@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this spacecraft rendezvous simulation framework, please cite it as below."
+authors:
+  - family-names: Sagal Andrade
+    given-names: René
+    orcid: https://orcid.org
+title: "ESA Ramses Spacecraft Orbital Survival & SRP Perturbation Dynamics at (99942) Apophis (2029 Perigee)"
+version: 1.0.0
+date-released: 2026-11-17
+url: https://github.com
