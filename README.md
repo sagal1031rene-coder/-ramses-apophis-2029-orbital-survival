@@ -1,4 +1,7 @@
 # ESA Ramses Spacecraft Orbital Survival & SRP Perturbation Dynamics at (99942) Apophis (2029 Perigee)
+[![Preprint DOI](https://shields.io)](https://doi.org)
+[![Software DOI](https://zenodo.org)](https://doi.org)
+[![ORCID](https://shields.io)](https://orcid.org)
 
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![ORCID](https://shields.io)](https://orcid.org)
