@@ -4,7 +4,9 @@ authors:
   - family-names: Sagal Andrade
     given-names: René
     orcid: https://orcid.org
-title: "ESA Ramses Spacecraft Orbital Survival & SRP Perturbation Dynamics at (99942) Apophis (2029 Perigee)"
+title: "Orbital Survival and Tidal Stripping Dynamics of an ESA Ramses-Class Spacecraft at Asteroid (99942) Apophis During the 2029 Terrestrial Perigee"
 version: 1.0.0
-date-released: 2026-11-17
+doi: "10.5281/zenodo.24351105"
+date-released: 2026-11-18
 url: https://github.com
+
